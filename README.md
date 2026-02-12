@@ -21,6 +21,6 @@
 <p align="center">
   <img src="images/Main_ui.jpg" width="180" alt="主页">
   <img src="images/Effect_show.jpg" width="180" alt="测试算法">
-  <img src="images/Effect_show1.jpg" width="180" alt="效果展示">
+  <img src="images/Effect_show2.jpg" width="180" alt="效果展示">
   <img src="images/Effect_show3.jpg" width="180" alt="效果展示2">
 </p>
