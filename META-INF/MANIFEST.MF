@@ -3,10 +3,10 @@ Built-By: Signflinger
 Created-By: Android Gradle 8.0.2
 
 Name: AndroidManifest.xml
-SHA-256-Digest: 4aq4yONoNZsTJsrIcD+g4zhsKSHHhgDEzsTyx2JDrSc=
+SHA-256-Digest: Iec23TtpgijOnK5hBNRkMR+7uHarusyiFWr62Dh37Ok=
 
 Name: Azek-Modified-version-2.properties
-SHA-256-Digest: 7Xrk4u8yqdMQxOGrba3DkyQeG2Z9JFEXXeQzVSU7rp8=
+SHA-256-Digest: lO+qVmNEzbSZ9Tw4YkVX9kZoC8PoQrSX+PFkuzlph/A=
 
 Name: DebugProbesKt.bin
 SHA-256-Digest: FYoZ65SqLz4vRZ22nuECdsc7lF3Wxfj8Ijzy2F4rXjM=
@@ -782,7 +782,7 @@ Name: assets/flutter_assets/assets/images/icon_alipay.png
 SHA-256-Digest: CtbLtWM0vfz2hpe+iQi66skhxwfve5vhqR3yo49PE4o=
 
 Name: assets/flutter_assets/assets/images/icon_autojs_logo.png
-SHA-256-Digest: HV0E6gmUQBKAIoo/DwXLdOaFeJ9cNmkTraAGgeMrxEw=
+SHA-256-Digest: xrklXRYbiRBPrP4AHMkDOegWjZQB2CMvjVRQab97vTE=
 
 Name: assets/flutter_assets/assets/images/icon_googleplay.png
 SHA-256-Digest: Y823IG6i+5kr0PvNPBnSpFFoGjtRk46gAiz7UwGbNoA=
@@ -3981,7 +3981,7 @@ Name: assets/sample/中文/AutojsPro文档/docs/index2.htm2
 SHA-256-Digest: /MHUw1PJzGG/q7XN00f04FnXHwq5l5vkz29QZHlmCig=
 
 Name: assets/sample/中文/AutojsPro文档/docs/logo.png
-SHA-256-Digest: HV0E6gmUQBKAIoo/DwXLdOaFeJ9cNmkTraAGgeMrxEw=
+SHA-256-Digest: xrklXRYbiRBPrP4AHMkDOegWjZQB2CMvjVRQab97vTE=
 
 Name: assets/sample/中文/AutojsPro文档/docs/search-pro.worker.js
 SHA-256-Digest: wUvC1lHaTBd2pq/p9lOBH90/Vid4Lefg1qcolM1ggaY=
@@ -9144,13 +9144,22 @@ Name: billing.properties
 SHA-256-Digest: vXw/NDej9yyquRLw/+CyNvbcDsSNupktb7We7Sruekk=
 
 Name: classes.dex
-SHA-256-Digest: fdcwcr3ns7ZxuWgvDyZrxzWWfp9xGq9X4+s7HgPB+pQ=
+SHA-256-Digest: YK/SvTF4e4vdUTqrFvHFG7/j9CqWPBws1so/Yay1j10=
 
 Name: classes2.dex
-SHA-256-Digest: W0RsZ5SY1K++oaYL4qVIT2/Mp8X5lEMFnLZjNABc1YE=
+SHA-256-Digest: Pqd5qnh0xWkd5YSDM2DOUcLNwq9rkLBIVrGKFk/uWX0=
 
 Name: classes3.dex
-SHA-256-Digest: zQzryvkNKDMYrhlAz/kKZZbIS5dFIeMTCmvwW1mEH9o=
+SHA-256-Digest: b4JGHcwtbQIf9tpQzIobnm0RzNeCC6LqC80Z3Rt+wII=
+
+Name: classes4.dex
+SHA-256-Digest: uMH8GUDlRBfNSsskNgbkfrSeoaX3l6JhOlRMrAlHA4Y=
+
+Name: classes5.dex
+SHA-256-Digest: ePe5m09Hkz6nTTrc9wyrRE6Jlx5fwTnUB4ehxIO4Y38=
+
+Name: classes6.dex
+SHA-256-Digest: JsateZg64GwwW/B7mlKKlynB6PVjQkX3nkjSg72G6sk=
 
 Name: images/Alipay-qrcode.jpg
 SHA-256-Digest: XSgPcKyLd8JYNGcwiCzByzZweI8iixGiobdYT52vLpo=
@@ -9207,7 +9216,7 @@ Name: lib/arm64-v8a/libaapt2.so
 SHA-256-Digest: /ptC+/nEyqD0DpuoOHwmvlzphml7LXF3TiM6ABTWNT0=
 
 Name: lib/arm64-v8a/libapp.so
-SHA-256-Digest: gPssTnH2sDyJdWfPPYIA63uASUTEw1WJm7e4bIWDODc=
+SHA-256-Digest: 2k0+gOic47vyO3ntRkpz0eSAdfmwpfgw3vf2iht1DuM=
 
 Name: lib/arm64-v8a/libautojspro.so
 SHA-256-Digest: wkPC/oox0ZdelCed0f19QGsPTIbenfCMaYtuhQyj+iE=
@@ -11727,7 +11736,7 @@ Name: res/drawable-hdpi/ic_settings_ethernet_white_24dp.png
 SHA-256-Digest: Y/+ruUfktkvFnc2iMtwYtyqrGSlxC3dQGy3yP3f3LjE=
 
 Name: res/drawable-hdpi/icon_autojs_logo.png
-SHA-256-Digest: YCHnwcgjSaOZ304EDYvAkjAQ0K0KEMjG017R7LyoAD0=
+SHA-256-Digest: xrklXRYbiRBPrP4AHMkDOegWjZQB2CMvjVRQab97vTE=
 
 Name: res/drawable-hdpi/md_nav_back.png
 SHA-256-Digest: R5eNkDKAYmTsSl2akAdAY4RIfotG8oqb6oRWKY01E9M=
@@ -11923,7 +11932,7 @@ Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
 SHA-256-Digest: LihpMwDIzV291Jy8cZcEVOnr0qo6pi7ZepfcH2iUhDw=
 
 Name: res/drawable-mdpi/splash_icon.png
-SHA-256-Digest: YCHnwcgjSaOZ304EDYvAkjAQ0K0KEMjG017R7LyoAD0=
+SHA-256-Digest: xrklXRYbiRBPrP4AHMkDOegWjZQB2CMvjVRQab97vTE=
 
 Name: res/drawable-v23/abc_control_background_material.xml
 SHA-256-Digest: C2coDhFBmvEsDXJXNnU7YZNOn3mWDx+gbkqtxH7+3sM=
@@ -15646,7 +15655,7 @@ Name: res/drawable/ic_ali_up.png
 SHA-256-Digest: xSxNgwnHQZOWHSUQlXB6+EHRjmQgtL5qG2s/bjPbUlo=
 
 Name: res/drawable/ic_android_eat_js.png
-SHA-256-Digest: tcYpYPCPYv5PcK0MoJZCIJ5POcjYimcPJZVI+CXjlVw=
+SHA-256-Digest: xrklXRYbiRBPrP4AHMkDOegWjZQB2CMvjVRQab97vTE=
 
 Name: res/drawable/ic_arrow_down_24dp.xml
 SHA-256-Digest: oWvPG6bN0QQbAhaXe9NPw3RUDzTsPsd5XK3H0c3Tn94=
@@ -15718,7 +15727,7 @@ Name: res/drawable/ic_launcher_background.xml
 SHA-256-Digest: lHXeoB+YozUrPHpZpLD7T/fCnKBnmxamBz+YGf3Tv8Q=
 
 Name: res/drawable/ic_launcher_rounded.png
-SHA-256-Digest: uLQXLiiyWzICzVtqxlbPCM0bMwmFhs3EYHE+DeFAbvU=
+SHA-256-Digest: VNT6646VfIbKXBLSLYRJIdmyyK67f3S9HhsIMD5W8HU=
 
 Name: res/drawable/ic_m3_chip_check.xml
 SHA-256-Digest: J2EOWXNEuU9wXlbk0c8e96fOvb0o3MQaFgdB+qDmOA0=

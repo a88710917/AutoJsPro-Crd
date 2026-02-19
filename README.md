@@ -40,6 +40,7 @@
 - **作者**: Azek
 - **邮箱**: Azek431@163.com
 - **GitHub**: Azek431/AutoJsPro-Crd
+- **QQ**: 2982154038
 - **QQ交流群**: 976198923
 - **QQ频道**: pd67838308
 - **Telegram频道**: @AzekMain
