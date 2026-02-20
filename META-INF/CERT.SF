@@ -1,13 +1,13 @@
 Signature-Version: 1.0
 Created-By: Android Gradle 8.0.2
-SHA-256-Digest-Manifest: iTdgZkgVZFXr73C9U7IiWgPS7ErwCBPkhLxequU+aBE=
+SHA-256-Digest-Manifest: enS9ap7W9nVUOvj4AVddnz/ktp45+hDLI0478k/NM9Q=
 X-Android-APK-Signed: 2
 
 Name: AndroidManifest.xml
 SHA-256-Digest: MgdcUWTzS5uMgch8TwQ0evC6c0lbP/MCuqELg6u8khw=
 
 Name: Azek-Modified-version-2.properties
-SHA-256-Digest: d8NW77ysa7ei6pkfNpPTMveVvJDMo4r1+SRHltX5Zl4=
+SHA-256-Digest: A8sYi6eBKkhOXu/034BmDRzJteLLq9KWiYl3fY2gILE=
 
 Name: DebugProbesKt.bin
 SHA-256-Digest: f1VLL3ND49UIB8KI6Qz30xG64Fz+tJnIVlR2zwEcJAM=
@@ -33,7 +33,7 @@ Name: META-INF/services/okhttp3.internal.io.qx2
 SHA-256-Digest: TjM2drBfSDrWfraqm82U7CN5q+05Q8dUL7M+qgivyzU=
 
 Name: README.md
-SHA-256-Digest: YLbm/cAfy7/eEeJBzHJrdwDbQpTdPpkAcdAwshybTlg=
+SHA-256-Digest: 4jxA8lFYhHogmM990axW/Kdhczli9ZjpNCHiFyfwe6c=
 
 Name: androidsupportmultidexversion.txt
 SHA-256-Digest: /ozB4iWCv4KQhBIH6rZJtXMfwltgyz6k/votYXVgXCA=
@@ -11737,7 +11737,7 @@ Name: res/drawable-hdpi/ic_settings_ethernet_white_24dp.png
 SHA-256-Digest: sllz02sYlZdf+Pt4jqMLQ5SKOovp0InPci3sf2vhC4k=
 
 Name: res/drawable-hdpi/icon_autojs_logo.png
-SHA-256-Digest: BpQfLnrbyyu0QXtHEROf9z9dn3u33ea6ZmdJ8inWVKc=
+SHA-256-Digest: dySvyEfrG3akDNYRrt9d8xR2OA/AjZu71yXrrZRrfPA=
 
 Name: res/drawable-hdpi/md_nav_back.png
 SHA-256-Digest: srimtwaM52JnsN8UfkVt/JlygcudrAUtkU005f1eQV0=
@@ -11933,7 +11933,7 @@ Name: res/drawable-mdpi/notify_panel_notification_icon_bg.png
 SHA-256-Digest: lZqU5awQlDMZFx6bpgl6lruH8g2kaeO+fkcPkoOWM14=
 
 Name: res/drawable-mdpi/splash_icon.png
-SHA-256-Digest: OYuBq5+daZ0VKN/AgaFBBz75WsVBmUbL74GoW6T+lLA=
+SHA-256-Digest: C53HTrLdaZCX6Ev810l4ooIgxB+T7zWNePGcd5I59fU=
 
 Name: res/drawable-v23/abc_control_background_material.xml
 SHA-256-Digest: leC/mbL6LvH/AG1uoEytZDojG8JOfAHVvf9g1ZGMGRU=
@@ -15656,7 +15656,7 @@ Name: res/drawable/ic_ali_up.png
 SHA-256-Digest: 8JSRml5s5wRsuPHMYkHEHziPshcFndoPD5ahKtczqIk=
 
 Name: res/drawable/ic_android_eat_js.png
-SHA-256-Digest: 0+4Wm9l7Xo1ufb1yW3Hw3vCzreNIWMB+XBghMD8HOf4=
+SHA-256-Digest: 3sh/sxwrtcR6zP+Pah/71TdNI2FkGYjOXDh3WHrB8Go=
 
 Name: res/drawable/ic_arrow_down_24dp.xml
 SHA-256-Digest: XmSOCCwK9hpCzKt3LuqzR1v9Keq+J94iioNl6VcIKLk=
@@ -15728,7 +15728,7 @@ Name: res/drawable/ic_launcher_background.xml
 SHA-256-Digest: Ft/CxGNAvXBPTODl5wz0JgOyA8yxkLP1gDt+P9kGDXM=
 
 Name: res/drawable/ic_launcher_rounded.png
-SHA-256-Digest: EpL2bQ60rhHkVeRpstX5D2tZxd1233qqFrfcZ26iES4=
+SHA-256-Digest: utKnJDn+xIb/aBaQSy+DwgG1ZHNxBMn0kXRshFBRzaA=
 
 Name: res/drawable/ic_m3_chip_check.xml
 SHA-256-Digest: moyHs6BD9S4FnqzJQWs9LL/HiOYhgCY7fs7y1hzP+Hk=

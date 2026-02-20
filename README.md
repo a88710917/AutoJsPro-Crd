@@ -25,6 +25,20 @@
   <img src="images/Effect_show3.jpg" width="180" alt="效果展示2">
 </p>
 
+## 资源介绍
+1. [AttachFiles](AttachFiles): 附加文件，不是源apk中的文件。
+2. [VSCode插件](AttachFiles/hyb1996.auto-js-pro-ext-9.0.9.vsix): VSCode AutoJsPro插件，@hyb1996 (软件原作者) 所贡献与制作。用来 调试、远程编程、连接手机端 等。
+3. [classes.dex](classes.dex) [classes2.dex](classes2.dex) [classes3.dex](classes3.dex) [classes4.dex](classes4.dex) [classes5.dex](classes5.dex) [classes6.dex](classes6.dex) [classes7.dex](classes7.dex) 是Android应用中的编译后的字节码文件。如果要 增加、删改 某些功能，那请改这个。
+4. [resources.arsc](resources.arsc): apk的资源索引。如 字符串、弹窗文字、标题 等。
+5. [AndroidManifest.xml](AndroidManifest.xml): apk的配置文件。管理apk的配置，如 权限、版本号、版本名、界面、图标、主题样式 等。
+6. [res](res): apk的资源仓库。如 [页面布局](res/layout)、[菜单](res/menu)、颜色样式、图标、图片、[动画](res/anim) 等。
+7. [META-INF](META-INF): apk的签名文件夹和校验信息。
+8. [org](org): 第三方代码包。
+9. [okhttp3](okhttp3): 网络请求库。
+10. [lib](lib): 存放系统库文件的重要组成部分。
+11. [kotlin](kotlin): kotlin代码。
+12. [images](images): GitHub仓库的展示图片，与apk无关。
+
 
 ### 免责声明
 
